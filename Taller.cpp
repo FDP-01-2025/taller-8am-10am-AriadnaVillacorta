@@ -119,7 +119,7 @@ cout<<"el estudiante fue eliminado"<<endl;
 else
 cout<<"el carnet no fue encontrado"<<endl;;
 }else{
- cout <<"Error de abrir el archivo"<<endl;;
+ cout <<"error de abrir el archivo"<<endl;;
 }      
 }
 
